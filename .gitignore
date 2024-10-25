@@ -1,0 +1,4 @@
+output/
+.vscode
+*.o
+*.d
